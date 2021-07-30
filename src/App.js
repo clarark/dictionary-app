@@ -7,10 +7,10 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-        Dictionary
+        <strong> The Dictionary</strong>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="hello" />
         </main>
         <footer className="text-center">
           <small> Coded by Clara Redshaw Kranich </small>
