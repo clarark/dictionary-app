@@ -13,8 +13,8 @@ export default function App() {
           <Dictionary defaultKeyword="hello" />
         </main>
         <footer className="text-center">
-          <small> 
-            <a href="https://github.com/clarark/dictionary-app" target="_blank" rel="noreferrer"> Coded </a> by Clara Redshaw Kranich </small>
+          <small> This project was coded by Clara Redshaw Kranich and is  
+            <a href="https://github.com/clarark/dictionary-app" target="_blank" rel="noreferrer"> open-sourced on GitHub </a>  </small>
         </footer>
       </div>
     </div>
